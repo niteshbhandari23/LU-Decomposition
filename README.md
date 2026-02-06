@@ -47,7 +47,7 @@ print(x)
 ```
 
 ## Output:
-i) Finding L and U 
+i) Finding L and U Matrix
 <img width="1213" height="669" alt="image" src="https://github.com/user-attachments/assets/e2b9a6b3-4596-4f14-b434-e816dee2d0e3" />
 <img width="1230" height="660" alt="image" src="https://github.com/user-attachments/assets/157c2be6-e2ee-4292-90ec-b87f37597708" />
 
